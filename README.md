@@ -1,4 +1,4 @@
-![Emojipsum](cover,png)
+![Emojipsum](cover.png)
 #Emojipsum
 Emoji generator for Sketch
 =============================
@@ -15,7 +15,7 @@ Clone or copy the emojipsum.sketchplugin to `~/Library/Application Support/sketc
 Usage
 =============================
 
-![how it works gif](how-it-works,gif)
+![how it works gif](how-it-works.gif)
 
 Or just hit ( ⇧ ⌥ ⌘ e ) when having a text layer selected.
 ⚠️ This overrides the text within the text layer with a bunch of Emoji
