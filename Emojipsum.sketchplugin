@@ -1,4 +1,4 @@
-// shortcut for text (shift option cmd l)
+// shortcut for text (shift option cmd e)
 
 for (var i=0; i<selection.length(); i++) {
 var layer = selection[i];
